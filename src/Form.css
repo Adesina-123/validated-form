@@ -39,6 +39,9 @@
     margin-right: 45px;
     margin-top: 25px;
   }
+  .less {
+    text-align: center;
+  }
   .btn-3 {
     margin-top: 41px;
     margin-bottom: 30px;
@@ -46,8 +49,6 @@
     outline: none;
     color: white;
     background-color: #9d1621;
-    margin-left: 200px;
-    margin-right: 200px;
     width: 9rem;
     height: 3rem;
     border: none;
@@ -63,12 +64,6 @@
       width: 428px;
       
     }
-    .less {
-      position: relative;
-      margin-left: -39px;
     
-    }
-    .btn-3 {
-      margin-right: 20px;
-    }
+    
   }
